@@ -1,6 +1,6 @@
 # ESP8266 LED Demo
 
-This is a little example to show how to remote control an ESP8266 over wifi with your smartphone.
+This is a little example to show how to remotely control an ESP8266 over wifi with your smartphone.
 
 [![demo video](https://img.youtube.com/vi/CBABLYRuyJc/0.jpg)](https://www.youtube.com/watch?v=CBABLYRuyJc)
 
